@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/test',[App\Http\Controllers\FirstController::class, 'test']);
+Route::get('/test',[App\Http\Controllers\FirstController::class, 'test']); 
 
 
 // Route::any('{slug}', function() {

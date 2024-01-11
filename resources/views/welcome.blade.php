@@ -35,10 +35,10 @@
     
    <div id="app">
 
-        <app-component></app-component>
+   <app-component></app-component>
    </div>
 </body>
 
 
 
-</html>
+</html> 
